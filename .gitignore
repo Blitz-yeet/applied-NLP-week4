@@ -1,6 +1,9 @@
 # Ignore data folder and heavy pptx files
 data/*
 slides/*.pptx
+data/*.txt
+data/PetSemetary.txt
+data/TheShining.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
