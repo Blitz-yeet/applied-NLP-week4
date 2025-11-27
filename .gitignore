@@ -4,6 +4,9 @@ data/PetSemetary.txt
 data/TheShining.txt
 data/*
 slides/*.pptx
+data/*.txt
+data/PetSemetary.txt
+data/TheShining.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
